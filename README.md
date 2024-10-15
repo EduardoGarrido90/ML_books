@@ -18,7 +18,7 @@ We have gathered some of the best books covering a range of topics in Machine Le
 4. **[Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/D.Barber/textbook/)** by David Barber  
    - *Focuses on probabilistic graphical models and Bayesian methods.*
 
-5. **[Machine Learning: A Probabilistic Perspective]([https://www.cs.ubc.ca/~murphyk/MLbook/](https://probml.github.io/pml-book/))** by Kevin P. Murphy  
+5. **[Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/)** by Kevin P. Murphy  
    - *An in-depth look at probabilistic models for machine learning.*
 
 6. **[Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)** by Andreas Müller and Sarah Guido  
