@@ -15,7 +15,7 @@ We have gathered some of the best books covering a range of topics in Machine Le
 3. **[Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732)** by Christopher M. Bishop  
    - *One of the most popular and accessible introductions to machine learning.*
 
-4. **[Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/D.Barber/textbook/)** by David Barber  
+4. **[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)** by David Barber  
    - *Focuses on probabilistic graphical models and Bayesian methods.*
 
 5. **[Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/)** by Kevin P. Murphy  
